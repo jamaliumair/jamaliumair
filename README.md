@@ -1,4 +1,4 @@
-                                              Hi 👋, I'm Umair Jamali
+![image](https://github.com/jamaliumair/jamaliumair/assets/107789919/eeddc47d-da14-4a02-b7cb-cd3a2561fa55)![image](https://github.com/jamaliumair/jamaliumair/assets/107789919/b6055024-969b-444a-88d9-c5de9917dcc7)                                              Hi 👋, I'm Umair Jamali
 
 - 🌱 I’m currently learning MERN Stack Development
 - 💬 Ask me about JavaScript, C#
@@ -17,4 +17,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
