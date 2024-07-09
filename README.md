@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div  id="header" align="center">
   <h1>Hi 👋, I'm Umair Jamali</h1>
 </div>
 
