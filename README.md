@@ -1,6 +1,4 @@
-                                  <div>
-                                  <h1 align="center">Hi 👋, I'm Umair Jamali</h1>
-                                  </div>
+                                  ## Hi 👋, I'm Umair Jamali
 
 - 🌱 I’m currently learning MERN Stack Development
 - 💬 Ask me about JavaScript, C#
