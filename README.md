@@ -1,6 +1,6 @@
-<center>
+<div style="text-align: center;">
   <h1>Hi 👋, I'm Umair Jamali</h1>
-</center>
+</div>
 
 ## Hi there 👋
 I'm [Your Name], a [Your Profession/Role] from [Your Location]. Welcome to my GitHub profile!
