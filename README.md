@@ -1,12 +1,15 @@
-                                  <div> <h1 align="center">Hi 👋, I'm Umair Jamali</h1></div>
+                                  <div>
+                                  <h1 align="center">Hi 👋, I'm Umair Jamali</h1>
+                                  </div>
 
 - 🌱 I’m currently learning MERN Stack Development
 - 💬 Ask me about JavaScript, C#
 - 📫 How to reach me: jamaliumair957@gmail.com
 - 📄 Know about my experiences: https://github.com/jamaliumair
 
-  Connect with me:
+  
   <div>
+    <h1>Connect with me:</h1>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
