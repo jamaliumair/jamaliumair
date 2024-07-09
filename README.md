@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 - List the technologies you work with or are interested in.
 
 ## 🌱 Currently Learning
