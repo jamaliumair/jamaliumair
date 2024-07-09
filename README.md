@@ -2,8 +2,7 @@
   <h1>Hi 👋, I'm Umair Jamali</h1>
 </div>
 
-## Hi there 👋
-I'm [Your Name], a [Your Profession/Role] from [Your Location]. Welcome to my GitHub profile!
+Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
 
 ## 🔧 Technologies & Tools
 - List the technologies you work with or are interested in.
