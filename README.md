@@ -1,4 +1,4 @@
-                                  ## Hi 👋, I'm Umair Jamali
+                                  # Hi 👋, I'm Umair Jamali
 
 - 🌱 I’m currently learning MERN Stack Development
 - 💬 Ask me about JavaScript, C#
