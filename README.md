@@ -36,15 +36,6 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
 ## 🎶 Hobbies
 - Share your hobbies or interests outside of programming.
 
-## 🏆 Achievements
-- Mention any notable achievements or awards.
-
-## 📚 Favorite Books
-- List some books you love or are currently reading.
-
-## 🎨 Personal Interests
-- Share anything else about your personal interests or passions.
-
 ---
 
 Feel free to explore my repositories and connect with me! Let's collaborate and create something awesome together.
