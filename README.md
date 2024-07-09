@@ -1,4 +1,8 @@
-# Your Name
+<center>
+  <h1>Hi there</h1>
+</center>
+
+# Hi 👋, I'm Umair Jamali
 
 ## Hi there 👋
 I'm [Your Name], a [Your Profession/Role] from [Your Location]. Welcome to my GitHub profile!
