@@ -5,6 +5,7 @@
 Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
 <hr style="border: none; border-top: 1px solid #000; margin: 1em 0;">
 ---
+
 ## 📫 Connect with me on 🔗:
   <div>
   <a href="https://www.linkedin.com/in/umair-jamali/">
