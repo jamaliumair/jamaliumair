@@ -26,13 +26,13 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   </a>
   <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5.eps" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   </a>
   <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
   </a>
   <a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   </a>
   <a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
