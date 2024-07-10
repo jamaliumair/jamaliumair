@@ -1,7 +1,6 @@
 <div  id="header" align="center">
   <h1>Hi 👋, I'm Umair Jamali</h1>
 </div>
-
 Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
 
 ## 📫 Connect with me on 🔗:
