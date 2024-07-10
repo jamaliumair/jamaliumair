@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi 👋, I'm Umair Jamali</h1>
 </div>
-Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
+Welcome to my GitHub profile! I am a passionate MERN stack developer dedicated to building scalable applications and solving real-world problems. My expertise spans across the full-stack development spectrum, leveraging the power of MongoDB, Express.js, React.js, and Node.js to create efficient and elegant solutions.
 
 ---
 
@@ -27,6 +27,8 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
 ---
 
 - 🌱 I’m currently learning MERN Stack Development
+- 🔭 I love working on innovative projects that push the boundaries of technology.
+- 🚀 I am enthusiastic about learning new technologies and improving my coding practices.
 - 💬 Ask me about JavaScript, Next.js
 - 📫 How to reach me: jamaliumair957@gmail.com
 - 📄 Know about my experiences: https://github.com/jamaliumair
