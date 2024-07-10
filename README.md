@@ -23,7 +23,7 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
     <img src="https://camo.githubusercontent.com/195dd1b93b11c7bb98736d2a1842c1baafb22bd983808aec0fec890c2d824501/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c657870726573732c6d6f6e676f64622c6e6f64656a732c7473" alt="Instagram Badge"/>
   </a>
   <a>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="Java" alt="Java" width="45" height="45"/>
   </a>
   <a>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
