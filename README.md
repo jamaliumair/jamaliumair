@@ -4,7 +4,17 @@
 
 Welcome to my GitHub profile. I'm passionate about building scalable applications and solving real-world problems using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in full-stack development and a keen interest in learning new technologies, I strive to create efficient and elegant solutions.
 
-# 🔧 Technologies & Tools
+# 📫 Connect with me on 🔗:
+  <div>
+  <a href="your-linkedin-URL">
+    <img src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://camo.githubusercontent.com/e818212b5e40fd6507738970e6baa7f3ec80e6645e7af32938b731e8e0c99000/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram Badge"/>
+  </a>
+</div>
+  
+# Technologies & Tools ⚙️:
 - List the technologies you work with or are interested in.
 
 ## 🌱 Currently Learning
@@ -49,7 +59,6 @@ Feel free to explore my repositories and connect with me! Let's collaborate and 
                                   
                                   
                                   
-                                  # Hi 👋, I'm Umair Jamali
 
 - 🌱 I’m currently learning MERN Stack Development
 - 💬 Ask me about JavaScript, C#
