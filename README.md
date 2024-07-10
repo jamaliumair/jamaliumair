@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am a passionate MERN stack developer dedicated t
 
 ---
 
+## 📫 Connect with me on 🔗:
   <div>
-    <h2>📫 Connect with me on 🔗:</h2>
   <a href="https://www.linkedin.com/in/umair-jamali/">
     <img src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn Badge"/>&nbsp;
   </a>
