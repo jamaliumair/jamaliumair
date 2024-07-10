@@ -15,7 +15,8 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
 </div>
   
 ## Languages & Tools ⚙️:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,js,css,nextjs,tailwind,react,nodejs,ts,express,npm&perline=10)](https://skillicons.dev)
+
 <div>
   <a href="https://camo.githubusercontent.com/f898bbaf3f178dafd38d616aab13f062a8ee3e8a07892cbdb08b068070ef417d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f6465">
     <img src="https://camo.githubusercontent.com/f898bbaf3f178dafd38d616aab13f062a8ee3e8a07892cbdb08b068070ef417d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f6465" alt="LinkedIn Badge"/>&nbsp;
