@@ -32,7 +32,7 @@ Welcome to my GitHub profile. I'm passionate about building scalable application
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
   </a>
   <a>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" title="Material UI" alt="Material UI"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   </a>
   <a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
