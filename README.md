@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I am a passionate MERN stack developer dedicated t
   </a>
 </div>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamaliumair&show_icons=true&locale=en&layout=compact" alt="jamaliumair" /></p>
