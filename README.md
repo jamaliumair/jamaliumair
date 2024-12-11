@@ -1,37 +1,39 @@
-<div id="header" align="center">
-  <h1>Hi 👋, I'm Umair Jamali</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-Welcome to my GitHub profile! I am a passionate MERN stack developer dedicated to building scalable applications and solving real-world problems. My expertise spans across the full-stack development spectrum, leveraging the power of MongoDB, Express.js, React.js, and Node.js to create efficient and elegant solutions.
 
-
----
-
-- 🌱 I’m currently learning MERN Stack Development
-- 🔭 I love working on innovative projects that push the boundaries of technology.
-- 🚀 I am enthusiastic about learning new technologies and improving my coding practices.
-- 💬 Ask me about JavaScript, Next.js
-- 📫 How to reach me: jamaliumair957@gmail.com
-- 📄 Know about my experiences: https://github.com/jamaliumair
-
-
----
-
-## 📫 Connect with me on 🔗:
-  <div>
-  <a href="https://www.linkedin.com/in/umair-jamali/">
-    <img src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn Badge"/>&nbsp;
-  </a>
-  <a href="https://www.instagram.com/jamaliumair597/">
-    <img src="https://camo.githubusercontent.com/e818212b5e40fd6507738970e6baa7f3ec80e6645e7af32938b731e8e0c99000/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram Badge"/>
-  </a>
-</div>
-
----
-## Languages & Tools ⚙️:
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,js,css,nextjs,tailwind,react,nodejs,ts,express,npm,cs,html,firebase,bootstrap,vercel,visualstudio,mysql,mongodb&perline=10" alt="My Skills">
-  </a>
-</div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamaliumair&show_icons=true&locale=en&layout=compact" alt="jamaliumair" /></p>
+###
